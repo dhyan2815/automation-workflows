@@ -1,7 +1,9 @@
-# ⚙️ Automation Workflows – n8n Collection
+# ⚙️ Automation Workflows
 
 This repository contains a curated collection of **production-ready AI automation workflows** built using **n8n**, **Gemini**, **Google APIs**, **Pinecone**, and other modern tooling.  
 Each workflow lives in its own sub-folder with a dedicated README, architecture diagram, and the exported n8n `.json` file.
+
+> **Note**: Repository renamed from `n8n-workflows` → `automation-workflows`
 
 The goal of this repository is simple:  
 **Modular, reusable, real-world AI systems — ready for deployment.**
